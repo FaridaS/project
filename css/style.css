@@ -127,3 +127,60 @@ blockquote {
 
 
 /*# sourceMappingURL=style.css.map */
+head,body{
+  background: #F0F0F0;
+}
+.templateLightColor {
+  background: #F3F3F3  !important;
+}
+.template-text{
+  color:#ABABAB;
+}
+.btn{
+  width: 100%;
+  margin-bottom: 2px;
+}
+.btn-text{
+  font-size: 7px !important;
+}
+.ball{
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  margin: 0;
+
+}
+.pagination li{
+  width: 30px !important;
+}
+.languages .tiny,.skills .tiny,.awards .tiny{
+  margin:2px;
+  width: 13px;
+}
+blockquote{
+  border-left: 5px solid grey !important;
+}
+.fieldset{
+  display: none;
+  position: absolute;
+  right: 7% !important;
+}
+fieldset{
+  border: 3px solid #FFFFFF !important;
+  margin: 0!important;
+  margin-left: -3px !important;
+  margin-top: 15px !important;
+  padding-top: 10px !important;
+}
+fieldset:hover .fieldset{
+  display: block !important;
+}
+fieldset:hover{
+  border:3px solid #009688 !important;
+  border-radius:10px ;
+}
+
+
+.fieldset li{
+  display: inline-block !important;
+}
