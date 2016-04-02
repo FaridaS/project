@@ -33,14 +33,19 @@
 	  </div>
 	</div>
   </nav>
-  <div class="verticalAlign"></div>
+  <div class="verticalAlign"><h6>SELECT YOUR TEMPLATE</h6></div>
   <div class="container">
     <div class="row">
+   
+
       <div id="sortable">
+         
           <div class="section col m4"><div class="template z-depth-1"></div></div>
           <div class="section col m4"><div class="template z-depth-1"></div></div>
           <div class="section col m4"><div class="template z-depth-1"></div></div>
+          
       </div>
+
     </div>
   </div>
 

@@ -3,7 +3,20 @@
   padding: 0; }
 
 .verticalAlign {
-  height: 30px; }
+  height: 100px;
+  text-align: center;
+}
+
+h6 {
+  line-height: 80px;
+  color:black;
+}
+
+.greenDivs {
+  height: 100px;
+  width: 100px;
+  border: 3px solid green;
+}
 
 .mainWrapper {
   position: relative;
@@ -15,7 +28,7 @@
     position: absolute !important;
     bottom: 0px !important;
     margin-bottom: 0px !important;
-    left: 50%;
+    left: 50 ∫%;
     transform: translateX(-50%);
     padding: 0 !important;
     margin: 0 !important; }
@@ -31,7 +44,7 @@
   color: white;
   text-transform: uppercase; }
   .mainMiddle .createStart {
-    height: 60px;
+    height: 10px;
     line-height: 60px;
     background-color: #274171;
     border-radius: 50px;
@@ -111,4 +124,6 @@ blockquote {
 .template:hover{
   box-shadow: 0 0 30px 0 #0abc77;
 }
+
+
 /*# sourceMappingURL=style.css.map */
